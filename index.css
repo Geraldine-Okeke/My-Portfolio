@@ -29,9 +29,21 @@ footer{
   text-align: center;
 }
 img{
-  box-shadow:10px 5px 5px rgba(255, 0, 0, 0.834);
+  box-shadow:10px 20px 2px rgba(255, 0, 0, 0.834);
 
 }
 .des{
   margin-bottom: 40px;
+  font-size: 25px;
+}
+header{
+  margin-bottom: 20px;
+}
+.front{
+  font-weight: 900;
+  font-size: 60px;
+  color: red;
+}
+.hi{
+  font-weight: 500;
 }
