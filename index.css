@@ -1,3 +1,7 @@
+body{
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
 dt, dd{
   display: inline;
 }
@@ -23,4 +27,11 @@ dt {
 }
 footer{
   text-align: center;
+}
+img{
+  box-shadow:10px 5px 5px rgba(255, 0, 0, 0.834);
+
+}
+.des{
+  margin-bottom: 40px;
 }
