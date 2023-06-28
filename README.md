@@ -8,5 +8,5 @@ The "My Portfolio" project is a personal portfolio website that allows me to sho
 
 - Professional image of yourself
 - Personal information such as name, country, mobile number, and email address
-- Link to your LinkedIn profile
+- Link to my LinkedIn profile
 - Footer with linkable social media icons
