@@ -6,17 +6,7 @@ body{
 dt, dd{
   display: inline;
 }
-dt {
-  &:before {
-    content: '\A';
-    white-space: pre;
-  }
-  &:first-child {
-    &:before {
-      content: '';
-    }
-  }
-}
+
 .icons{
   display: flex;
   flex-direction: row;
