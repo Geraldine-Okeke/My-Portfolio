@@ -12,3 +12,11 @@ dt {
     }
   }
 }
+.icons{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.icons *{
+  margin: 2px 10px;
+}
