@@ -111,5 +111,22 @@ img{
   width: 52px;
   height: 50px; 
 }
+footer{
+  width: 1152px;
+  height: 101px;
+  flex-shrink: 0;
+  text-align: center;
+  
+}
+footer img{
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+}
+footer>a:nth-of-type(3)>img{
+  width: 36.923px;
+  height: 30px;
+  flex-shrink: 0;
+}
 
 
