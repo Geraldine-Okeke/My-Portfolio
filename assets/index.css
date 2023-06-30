@@ -104,6 +104,13 @@ img{
   .footer-div{
     text-align: start;
   }
+  dt,dd{
+    display: block;
+  }
+  .left-icons-up{
+    width: 100%;
+    display: inline;
+  }
 }
 .left-icons img{
   width: 50px;
@@ -128,6 +135,7 @@ img{
 }
 footer{
   text-align: center;
+  margin-top: 30px;
 }
 .footer-div{
   width: 1152px;
@@ -143,6 +151,9 @@ footer>a:nth-of-type(3)>img{
   width: 36.923px;
   height: 30px;
   flex-shrink: 0;
+}
+footer>div>div *{
+  margin-right: 10px;
 }
 
 
