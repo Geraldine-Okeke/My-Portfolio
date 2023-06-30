@@ -2,6 +2,7 @@
 body{
   box-sizing: border-box;
   font-family: sans-serif;
+  
 }
 *{
   box-sizing: border-box;
@@ -84,10 +85,24 @@ img{
   flex-shrink: 0;
 }
 @media only screen and (max-width: 600px)  {
+  body{
+    background-color: aqua;
+  }
   .container{
     display: flex;
     flex-direction: column;
     
+  }
+  .left{
+    width: 100%;
+    
+  }
+  .right{
+    width: 100%;
+    
+  }
+  .footer-div{
+    text-align: start;
   }
 }
 .left-icons img{
@@ -112,11 +127,12 @@ img{
   height: 50px; 
 }
 footer{
+  text-align: center;
+}
+.footer-div{
   width: 1152px;
   height: 101px;
   flex-shrink: 0;
-  text-align: center;
-  
 }
 footer img{
   width: 30px;
