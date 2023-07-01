@@ -3,7 +3,6 @@ body{
   box-sizing: border-box;
   font-family: sans-serif;
   overflow-x: hidden;  
-  border: 5px solid red;
   
 }
 *{
